@@ -1,0 +1,10 @@
+Date    Who    Start    Stop    Interruptions   Question   TimeOnTask    Comments
+
+9/2     HS     14:43    15:50    10+10+5                     42         Preparing Laptop 
+9/4     HS     00:00     1:32      10                        82         John Clements Video
+9/4     HS      1:40     2:10       5                        25          Lecture Slides
+
+
+
+
+
