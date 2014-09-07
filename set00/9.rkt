@@ -1,0 +1,15 @@
+;; The first three lines of this file were inserted by DrRacket. They record metadata
+;; about the language level of this file in a form that our tools can easily process.
+#reader(lib "htdp-beginner-reader.ss" "lang")((modname |9|) (read-case-sensitive #t) (teachpacks ((lib "image.rkt" "teachpack" "2htdp") (lib "universe.rkt" "teachpack" "2htdp"))) (htdp-settings #(#t constructor repeating-decimal #f #t none #f ((lib "image.rkt" "teachpack" "2htdp") (lib "universe.rkt" "teachpack" "2htdp")))))
+; even-num? : Determines if a given number is even(divisible by 2)
+; GIVEN: Number -> Boolean
+; RETURNS: True if a number is divisible by 2 or False otherwise
+; Examples:
+; (even-num? 4) => True
+; (even-num? 3) => False
+
+(define (even-num? a)
+  (if (= (remainder a 2) 0) true false))
+
+(check-expect (even-num? 88) true)
+(check-expect (even-num? 73) false)

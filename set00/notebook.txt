@@ -1,8 +1,51 @@
-Date  Who    Start    Stop    Interruptions  Question  TimeOnTask    Comments
+Date  Who   Start    Stop    Interruptions  Question  TimeOnTask    Comments
 
-9/2   HS     14:43    15:50    10+10+5                    42         Preparing Laptop 
-9/4   HS     00:00     1:32      10                       82         John Clements Video
-9/4   HS      1:40     2:10       5                       25         Lecture Slides
+9/2   HS    14:43    15:50    10+10+5                    42         Preparing Laptop 
+9/2   HS    16:00    17:00         15                    45         Getting familiar with Piazza, Github and Zimbra
+9/5   HS     1:30     1:40                      1        10         Started with Ex.1
+9/5   HS     1:40     2:03                      2        23         Figuring out the correct Indentation
+9/5   HS     2:05     2:34          5           3        29         Checked definition of check-within 
+                                                                    and rewrote the test case
+
+9/5   HS     2:37     2:55          10          4         8         Worked on Ex 4. 
+                                                                    Getting a flow of the exercise.
+9/5   HS     2:55     3:18          10          5         8         Exercise 5
+9/5   HS     13:00    13:17                     6        17         Checked definition of quadratic roots.
+9/5   HS     15:00    15:10                     7        10         Worked on Ex 7
+9/5   HS     15:15    15:34         5           8        14         Worked on Ex 8
+9/6   HS     1:23     1:55          5          10        27         Confused whether to use If or Cond. 
+                                                                    Will come back later.
+9/6   HS     2:10     2:30          10          9        10         Worked on Ex 10
+
+========================================================================================================================================================================
+
+Total Time on Task Q1 (minutes)        10
+Total Time on Task Q2 (minutes)        23
+Total Time on Task Q3 (minutes)        29
+Total Time on Task Q4 (minutes)         8
+Total Time on Task Q5 (minutes)         8
+Total Time on Task Q6 (minutes)        17
+Total Time on Task Q7 (minutes)        10
+Total Time on Task Q8 (minutes)        14
+Total Time on Task Q9 (minutes)        10
+Total Time on Task Q10 (minutes)       27
+TOTQ1 (hours and tenths)               0.1
+TOTQ2 (hours and tenths)               0.3
+TOTQ3 (hours and tenths)               0.4
+TOTQ4 (hours and tenths)               0.1
+TOTQ5 (hours and tenths)               0.1
+TOTQ6 (hours and tenths)               0.2
+TOTQ7 (hours and tenths)               0.1
+TOTQ8 (hours and tenths)               0.2
+TOTQ9 (hours and tenths)               0.1
+TOTQ10 (hours and tenths)              0.4
+
+
+                                            
+
+
+
+
 
 
 
