@@ -16,6 +16,7 @@ Date  Who   Start    Stop    Interruptions  Question  TimeOnTask    Comments
 9/6   HS     1:23     1:55          5          10        27         Confused whether to use If or Cond. 
                                                                     Will come back later.
 9/6   HS     2:10     2:30          10          9        10         Worked on Ex 10
+9/7   HS     17:15    17:25                     10       10         Made change to Ex 10
 
 ========================================================================================================================================================================
 
@@ -28,7 +29,7 @@ Total Time on Task Q6 (minutes)        17
 Total Time on Task Q7 (minutes)        10
 Total Time on Task Q8 (minutes)        14
 Total Time on Task Q9 (minutes)        10
-Total Time on Task Q10 (minutes)       27
+Total Time on Task Q10 (minutes)       37
 TOTQ1 (hours and tenths)               0.1
 TOTQ2 (hours and tenths)               0.3
 TOTQ3 (hours and tenths)               0.4
@@ -38,7 +39,7 @@ TOTQ6 (hours and tenths)               0.2
 TOTQ7 (hours and tenths)               0.1
 TOTQ8 (hours and tenths)               0.2
 TOTQ9 (hours and tenths)               0.1
-TOTQ10 (hours and tenths)              0.4
+TOTQ10 (hours and tenths)              0.6
 
 
                                             
