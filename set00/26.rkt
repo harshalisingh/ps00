@@ -38,55 +38,60 @@
 
 (define lop1
   (list
-   (make-posn 30 30)
-   (make-posn 100 95)
-   (make-posn 250 150)))
+   (make-point 30 30)
+   (make-point 100 95)
+   (make-point 250 150)))
 
-;; draw : ListofPoints -> Circle
+;; draw-circle : ListofPoints -> Circle
 ;; GIVEN: a list of points
 ;; RETURNS: a solid blue circle with radius 10 
 ;;          at every point in the list into a 300X300 scene
 
 ;; EXAMPLES:
-;(begin-for-test
-;  (check-equal?
-;   (draw lop1)
-;   (place-images
-;    (circle 10 "solid" "blue")
-;    2 3
-;    (empty-scene 300 300)
-;    )))
+;(draw-circle lop1)
+;(place-images
+; (list
+;  (circle 10 "solid" "blue")
+;  (circle 10 "solid" "blue")
+;  (circle 10 "solid" "blue"))
+; (list
+;  (make-point 30 30)
+;  (make-point 100 95)
+;  (make-point 250 150))
+; (empty-scene 300 300)
+; )
 
 ;; STRATEGY: Structural Decomposition on lop : ListOfPoints
         
 (define
-  (draw lop1)
-  (place-images
-   (list
-   (circle 10 "solid" "blue")
-   (circle 10 "solid" "blue")
-   (circle 10 "solid" "blue")
-   )
-   (first (list lop1))
-   MTSCN))
+  (draw-circle lop1)
+  (cond
+    [(empty? lop1) MTSCN]
+    [else
+     (place-image 
+      (circle 10 "solid" "blue")
+      (point-x (first lop1))
+      (point-y (first lop1))
+      (draw-circle (rest lop1)))]))
+ 
 
-(draw lop1)
+(draw-circle lop1)
 
 ;; TESTS:
-;(begin-for-test
-;  (check-equal?
-;   (draw lop1)
-;   (place-images
-;    (list
-;    (circle 10 "solid" "blue")
-;    )
-;    (list
-;    (make-posn 2 3)
-;    )
-;    (empty-scene 300 300)
-;    )))
-
-
+(begin-for-test
+  (check-equal?
+   (draw-circle lop1)
+   (place-images
+    (list
+     (circle 10 "solid" "blue")
+     (circle 10 "solid" "blue")
+     (circle 10 "solid" "blue"))
+    (list
+     (make-posn 30 30)
+     (make-posn 100 95)
+     (make-posn 250 150))
+    (empty-scene 300 300)
+    )))
 
 
 
