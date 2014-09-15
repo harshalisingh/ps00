@@ -18,7 +18,34 @@ Date  Who   Start    Stop    Interruptions  Question  TimeOnTask    Comments
 9/6   HS     2:10     2:30          10          9        10         Worked on Ex 10
 9/7   HS     17:15    17:25                     10       10         Made change to Ex 10
 
-========================================================================================================================================================================
+=======================================================================================================================================================================
+9/13  HS     18:54   19:00                     11          6          Ex11   
+9/13  HS     19:00   19:06          1          12          5          Ex12
+9/13  HS     19:06   19:11                     13          5          Ex13
+9/13  HS     19:11   19:18                     14          7          EX14
+
+9/13  HS     19:20   19:32                     15          12         Ex15
+
+9/13  HS     19:45   19:56                     16          11         Downloaded image cute.jpg, Ex16
+9/13  HS     19:56   20:03                     17           7         Ex17
+
+9/13  HS     21:45   22:20          15         18          20         Ex18
+9/13  HS     22:21   22:46                     19          25         Ex19
+
+9/14  HS     01:00   02:00        5+10         20          45         Ex 20, Learnt about overlaying functions 
+                                                                     for images
+
+9/14  HS     17:15   17:35                     22          20         Studies about Lists. Ex 22
+9/14  HS     17:35   17:41                     23           6         Ex 23
+
+9/14  HS     22:25   22:53                     24          28         Ex 24
+
+9/14  HS     23:00   23:36                     25          36         Ex 25
+
+9/15  HS     00:40   01:49         10          26          59         Ex 26
+
+9/15  HS     16:10   16:45          5          27          30         Ex 27
+
 
 Total Time on Task Q1 (minutes)        10
 Total Time on Task Q2 (minutes)        23
@@ -30,6 +57,25 @@ Total Time on Task Q7 (minutes)        10
 Total Time on Task Q8 (minutes)        14
 Total Time on Task Q9 (minutes)        10
 Total Time on Task Q10 (minutes)       37
+
+Total Time on Task Q11 (minutes)        6 
+Total Time on Task Q12 (minutes)        5
+Total Time on Task Q13 (minutes)        5
+Total Time on Task Q14 (minutes)        7 
+Total Time on Task Q15 (minutes)       12
+Total Time on Task Q16 (minutes)       11
+Total Time on Task Q17 (minutes)        7
+Total Time on Task Q18 (minutes)       20
+Total Time on Task Q19 (minutes)       25
+Total Time on Task Q20 (minutes)       45
+Total Time on Task Q21 (minutes)        
+Total Time on Task Q22 (minutes)       20 
+Total Time on Task Q23 (minutes)        6
+Total Time on Task Q24 (minutes)       28
+Total Time on Task Q25 (minutes)       36  
+Total Time on Task Q26 (minutes)       59
+Total Time on Task Q27 (minutes)       30
+
 TOTQ1 (hours and tenths)               0.1
 TOTQ2 (hours and tenths)               0.3
 TOTQ3 (hours and tenths)               0.4
@@ -39,8 +85,26 @@ TOTQ6 (hours and tenths)               0.2
 TOTQ7 (hours and tenths)               0.1
 TOTQ8 (hours and tenths)               0.2
 TOTQ9 (hours and tenths)               0.1
-TOTQ10 (hours and tenths)              0.6
+TOTQ10 (hours and tenths)              0.6        
 
+TOTQ11 (hours and tenths)              0.1
+TOTQ12 (hours and tenths)              
+TOTQ13 (hours and tenths)              
+TOTQ14 (hours and tenths)               
+TOTQ15 (hours and tenths)               
+TOTQ16 (hours and tenths)               
+TOTQ17 (hours and tenths)               
+TOTQ18 (hours and tenths)               
+TOTQ19 (hours and tenths)              
+TOTQ20 (hours and tenths)
+
+TOTQ21 (hours and tenths)               
+TOTQ22 (hours and tenths)               
+TOTQ23 (hours and tenths)               
+TOTQ24 (hours and tenths)               
+TOTQ25 (hours and tenths)               
+TOTQ26 (hours and tenths)               
+TOTQ27 (hours and tenths)               
 
                                             
 

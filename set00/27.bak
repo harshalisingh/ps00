@@ -1,0 +1,17 @@
+;; The first three lines of this file were inserted by DrRacket. They record metadata
+;; about the language level of this file in a form that our tools can easily process.
+#reader(lib "htdp-beginner-reader.ss" "lang")((modname |27|) (read-case-sensitive #t) (teachpacks ((lib "image.rkt" "teachpack" "2htdp") (lib "universe.rkt" "teachpack" "2htdp"))) (htdp-settings #(#t constructor repeating-decimal #f #t none #f ((lib "image.rkt" "teachpack" "2htdp") (lib "universe.rkt" "teachpack" "2htdp")))))
+;; 27.rkt
+
+(require rackunit)
+(require "extras.rkt")
+
+;; A List of Strings (LOS) is one of:
+;; -- empty
+;; -- (cons String LOS)
+
+;; los-fn : LOS -> ?
+;  (define (los-fn los)
+;    (cond
+;       [(empty? lst)...]
+;       [else (... (first lst)(list-fn (rest lst)))]))
